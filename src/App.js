@@ -37,9 +37,9 @@ const App = () => {
   const models = ['Corolla', 'Civic', 'Focus', 'Onix', 'Jetta', 'X1', 'HRV', 'EcoSport', 'Fiesta', 'Grand Siena'];
   
   const bannerSlides = [
-    { id: 1, image: 'https://s3.amazonaws.com/speedhunters-wp-production/wp-content/uploads/2025/04/03202756/Alec-Pender-Renn-SH-20-1200x800.jpg' },
-    { id: 2, image: 'https://s3.amazonaws.com/speedhunters-wp-production/wp-content/uploads/2025/02/25043850/DSC_0513-680x453.jpg' },
-    { id: 3, image: 'https://s3.amazonaws.com/speedhunters-wp-production/wp-content/uploads/2025/02/27112413/Mario-Christou-P-Museum-SH-Edit-98-680x453.jpg' }
+    { id: 1, image: 'https://wallpapers.com/images/featured/carro-4k-ly05gtgz01buhl15.jpg' },
+    { id: 2, image: 'https://i.redd.it/0uermbt9q8b61.jpg' },
+    { id: 3, image: 'https://i.redd.it/pezsnlvn0hk71.jpg' }
   ];
 
 
