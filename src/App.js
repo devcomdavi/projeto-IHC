@@ -58,7 +58,8 @@ const App = () => {
     { id: 4, name: 'Chevrolet Onix', price: 'R$ 65.000', image: 'https://revistacarro.com.br/wp-content/uploads/2024/05/WhatsApp-Image-2024-05-10-at-14.27.12.jpeg', available: true, model: 'Onix', pais:'Estados Unidos', condicao:'Novo' },
     { id: 5, name: 'Volkswagen Jetta', price: 'R$ 95.000', image: 'https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/jetta-gli-2025.jpeg?w=1200&h=1200&crop=1', available: true, model: 'Jetta', pais:'Alemanha', condicao:'Novo' },
     { id: 6, name: 'BMW X1', price: 'R$ 180.000', image: 'https://i0.statig.com.br/bancodeimagens/11/k8/u1/11k8u13r2jmg8nrs7mbi1v98b.jpg', available: false, model: 'X1', pais: 'Alemanha', condicao:'Novo' },
-    { id: 7, name: 'Ford Fiesta🍺', price: 'R$ 20.000', image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1XjRnQrBIbwdco5TMOoXcmFt9I4SRCEKvP42xsOpsDYRIILxP5F-02iv_2mdyQjjxz1ylOQCBBvrWQqHsVzhzU_pSPzJ2YulHw8ufNkKG585jTniYev52LHqN7kZ-hxdJ9i0p6yLI47q/s1600/ford-fiesta-sedan%255B1%255D.jpg', available: true, model: 'Fiesta', pais: 'Estados Unidos', condicao:'Usado' }
+    { id: 7, name: 'Ford Fiesta🍺', price: 'R$ 20.000', image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1XjRnQrBIbwdco5TMOoXcmFt9I4SRCEKvP42xsOpsDYRIILxP5F-02iv_2mdyQjjxz1ylOQCBBvrWQqHsVzhzU_pSPzJ2YulHw8ufNkKG585jTniYev52LHqN7kZ-hxdJ9i0p6yLI47q/s1600/ford-fiesta-sedan%255B1%255D.jpg', available: true, model: 'Fiesta', pais: 'Estados Unidos', condicao:'Usado' },
+    { id: 8, name: 'Grand siena', price: 'R$ 30.000', image: 'https://dezeroacem.com.br/wp-content/uploads/2015/05/Fiat-Grand-Siena-Sublime-2016.jpg', available: false, model: 'Fiat', pais: 'Itália', condicao: 'Usado'}
   ];
 
   const addToCart = (car) => {
