@@ -1,0 +1,32 @@
+# Dependências do Projeto
+# A pasta node_modules deve ser ignorada.
+node_modules
+
+# Arquivos de Lock do npm (Crucial para quem usa npm)
+/package-lock.json
+
+# Logs e Erros
+/npm-debug.log
+/yarn-error.log # Manter, caso você mude para Yarn no futuro
+*.log
+
+# Diretórios de Build/Compilação
+# Pastas geradas pelo processo de build (ex: quando você roda 'npm run build')
+/build
+/dist
+/out
+/coverage
+
+# Variáveis de Ambiente e Arquivos de Configuração Secreta
+# NUNCA envie segredos para o Git!
+.env
+.env.local
+.env.*.local
+
+# Arquivos de Sistema Operacional e Temporários
+.DS_Store # macOS
+Thumbs.db # Windows
+/temp
+
+# Arquivos de IDEs (opcional)
+.vscode/
